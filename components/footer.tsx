@@ -63,7 +63,7 @@ export function Footer() {
             </li>
             <li className="flex items-start gap-2 text-ivory/65 text-sm">
               <MapPin className="h-3.5 w-3.5 mt-0.5 shrink-0" />
-              , Maharashtra
+              Solapur,Maharashtra
             </li>
           </ul>
         </div>
