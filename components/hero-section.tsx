@@ -11,7 +11,7 @@ export function HeroSection() {
     <section
       id="top"
       // Kept bg-black here as a fallback, but the image will now sit ON TOP of it
-      className="relative overflow-hidden bg-black min-h-[92vh] flex items-center"
+      className="relative overflow-hidden bg-black min-h-[80vh] sm:min-h-[92vh] flex items-center"
     >
       {/* 
         FIXED: Removed -z-10 so the image doesn't hide behind the section's bg-black.
